@@ -2,7 +2,7 @@
 
 **About the Project**
 I built this project to understand how machine learning can be used to predict customer purchasing behavior. Using customer information such as age and estimated salary, I trained a Logistic Regression model to determine whether a customer is likely to purchase a product.
-The project covers the complete machine learning workflow, from data preprocessing and feature scaling to model training, prediction, and performance evaluation. It helped me gain practical experience with classification problems and understand how data can be used to support business decisions.
+The project covers the complete machine learning workflow, from data preprocessing and feature scaling to model training, prediction, and performance evaluation.It helped me gain practical experience with classification problems and understand how data can be used to support business decisions.
 
 
 **What I Learned**
